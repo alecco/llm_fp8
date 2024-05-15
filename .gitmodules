@@ -4,3 +4,6 @@
 [submodule "util"]
 	path = util
 	url = git@github.com:alecco/cuda_utils.git
+[submodule "third_party/llm.c"]
+	path = third_party/llm.c
+	url = git@github.com:alecco/llm.c.git
